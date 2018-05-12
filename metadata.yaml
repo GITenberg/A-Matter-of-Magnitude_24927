@@ -1,0 +1,30 @@
+_repo: A-Matter-of-Magnitude_24927
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sevcik, Al
+    gutenberg_agent_id: '26818'
+    url: http://www.gutenberg.org/2009/agents/26818
+description: A Matter of Magnitude is presented here in a high quality paperback edition.
+  This popular classic work by Al Sevcik is in the English language, and may not include
+  graphics or images from the original edition. If you enjoy the works of Al Sevcik
+  then we highly recommend this publication for your book collection.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2008-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24927'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Space ships -- Fiction'
+- !lcsh 'Science fiction'
+title: A Matter of Magnitude
+url: http://www.gutenberg.org/ebooks/24927
