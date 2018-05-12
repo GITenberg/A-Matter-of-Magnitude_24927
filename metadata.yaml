@@ -12,6 +12,8 @@ description: A Matter of Magnitude is presented here in a high quality paperback
   This popular classic work by Al Sevcik is in the English language, and may not include
   graphics or images from the original edition. If you enjoy the works of Al Sevcik
   then we highly recommend this publication for your book collection.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24927#A-Matter-of-Magnitude
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2008-03-27'
 gutenberg_type: Text
